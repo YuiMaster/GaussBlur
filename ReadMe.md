@@ -5,4 +5,4 @@ https://juejin.cn/post/6934591886875164680
 Android NDK 实现图像高斯模糊
 https://mp.weixin.qq.com/s/mZx-raA7aUIzSXMYfgs6kw
 
-![Alt text](img/picture1.jpg "optional title")
+![Alt text](img/picture1.jpg  "optional title") {:height="20%" width="20%"}
